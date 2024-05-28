@@ -77,6 +77,8 @@
 
 <li>search by a  category </li>
 
+![categorysearch](https://github.com/lilithaJVC/agri-Energy/assets/104263642/4a2569a2-078f-457f-aa25-144c036a57ed) 
+
 
 
 
