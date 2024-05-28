@@ -42,6 +42,10 @@
 <li>the products will be added to the database</li>
 <li>the farmer is able to view the list of the products that they added  in their profile </li>
 
+<li>here is how it will look</li>
+
+![Uploading listOfProducts.png…]() 
+
 
 
 
