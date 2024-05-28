@@ -40,7 +40,7 @@
 ![addingProducts](https://github.com/lilithaJVC/agri-Energy/assets/104263642/29d5e6f4-5c0f-45f4-a5e2-71839be4160a)
 
 <li>the products will be added to the database</li>
-<li>the farmer is able to view the list of the products that they added  in their profile </li>
+<li>the farmer is able to view the list of the products that they added  in their profile by clicking on the view list button</li>
 
 <li>here is how it will look</li>
 
