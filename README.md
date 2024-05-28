@@ -14,3 +14,5 @@
 <li>these buttons are for the farmer to register, login then the employees's login  </li></li>
 <li>below is a photograph representing  Green energy </li></li>
 ![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/b1ee8162-ba1c-4d51-a548-f3be3db2a316)
+
+![farmerregpg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/8ad2cf24-6af1-4c36-891d-8fa6d4c34d45)
