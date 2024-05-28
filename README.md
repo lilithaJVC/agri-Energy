@@ -9,7 +9,7 @@
   <li>open sequal server managment studio</li>
 <li>copy all the scipt and paste it in sequal server managent studio then run the scipt</li></li>
 
-<h1>crunning the app </h1>
+<h1>running the app </h1>
 <li>run the app web app on visual studio, the home page  has 3 buttons at the top</li></li>
 <li>these buttons are for the farmer to register, login then the employees's login  </li></li>
 <li>below is a photograph representing  Green energy </li></li>
