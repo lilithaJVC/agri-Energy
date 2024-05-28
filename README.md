@@ -20,7 +20,12 @@
 
 <li>new farmers can click on the 'register as a farmer button '</li></li>
 <li>once they clicked on the button they will be prompt for their names, surname email as well as password</li></li>
-![farmerregpg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/c73a271e-bbd7-47ba-b08c-43ab183cc14e)
+
+
+![farmerregpg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/fcc7df5e-4259-4424-9737-4f7b0337db0e)
+
 <li>once they have provided, they need to click on the 'Register now' button</li></li>
 <li>after the user is registered they will log in with their email and password, NB, the systyem hashes the password before storing it in the database, so the users need to copy the hashed password from the  database</li></li>
+
+
 
