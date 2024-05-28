@@ -60,6 +60,7 @@
 <li>employee can clcik on the login as employee button from the home page </li>
 <li>they need to provide with their email and password that is pre-populated in the database</li>
 <li>then click on the log in button </li>
+
 ![empLogin](https://github.com/lilithaJVC/agri-Energy/assets/104263642/ce202c32-5c1e-4a34-910c-b289076f19d3)
 
 <li>after the employee is loggen in, they can create new farmers and add them to the  database </li>
