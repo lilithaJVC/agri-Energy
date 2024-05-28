@@ -4,7 +4,7 @@
 <li>copy the link in my repository </li></li>
 <li>open visual studio and paster the link where it says "clone repo" when the IDE starts then click on clone</li></li>
 
-<h1>set up the databaseh1>
+<h1>set up the database</h1>
 <li>download the database preload from my repository </li></li>
   <li>open sequal server managment studio</li>
 <li>copy all the scipt and paste it in sequal server managent studio then run the scipt</li></li>
