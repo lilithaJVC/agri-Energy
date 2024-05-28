@@ -15,4 +15,6 @@
 <li>below is a photograph representing  Green energy </li></li>
 ![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/3f0c1317-6fd0-4fdd-801c-4dacf8793f49)
 
+![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/603f4d20-2261-48d5-ad39-51c9d9be46c8)
+
 
