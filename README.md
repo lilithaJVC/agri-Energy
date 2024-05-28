@@ -33,6 +33,15 @@
 
 ![famerlogpg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/1a360ca5-a5a8-43bc-b0e3-6ca2670a30a9) 
 
+<li>now that the farmer is logged in they will be redirected to the page where they will be  able to add products </li>
+<li>they will be prompt to enter the product name, product category as well as the production date</li>
+<li>after all the details are provided, the famer can click on the add produts button </li>
+
+![addingProducts](https://github.com/lilithaJVC/agri-Energy/assets/104263642/29d5e6f4-5c0f-45f4-a5e2-71839be4160a)
+
+<li>the products will be added to the database</li>
+<li>the farmer is able to view the list of the products that they added  in their profile </li>
+
 
 
 
