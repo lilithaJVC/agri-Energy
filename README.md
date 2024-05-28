@@ -57,6 +57,11 @@
 
 
 <h1>employees Permissions </h1>
+<li>employee can clcik on the login as employee button from the home page </li>
+<li>they need to provide with their email and password that is pre-populated in the database</li>
+
+
+<li>after the employee is loggen in, they can create new farmers and add them to the  database </li>
 
 
 
