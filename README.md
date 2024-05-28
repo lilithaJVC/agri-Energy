@@ -69,4 +69,7 @@
 
 <li>employee have an option to view list of products by clicking on the 'view list products ' button </li>
 
+![empAddingFarmer](https://github.com/lilithaJVC/agri-Energy/assets/104263642/4464502d-53da-4284-89cf-47631ab80daf)
+
+
 
