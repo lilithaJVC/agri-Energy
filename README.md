@@ -13,4 +13,4 @@
 <li>run the app web app on visual studio, the home page  has 3 buttons at the top</li></li>
 <li>these buttons are for the farmer to register, login then the employees's login  </li></li>
 <li>below is a photograph representing  Green energy </li></li>
-![Green Energy](homepg.png)
+![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/b1ee8162-ba1c-4d51-a548-f3be3db2a316)
