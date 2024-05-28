@@ -12,9 +12,15 @@
 <h1>running the app </h1>
 <li>run the app web app on visual studio, the home page  has 3 buttons at the top</li></li>
 <li>these buttons are for the farmer to register, login then the employees's login  </li></li>
+
 <li>below is a photograph representing  Green energy </li></li>
-![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/3f0c1317-6fd0-4fdd-801c-4dacf8793f49)
+
 
 ![homepg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/603f4d20-2261-48d5-ad39-51c9d9be46c8)
 
+<li>new farmers can click on the 'register as a farmer button '</li></li>
+<li>once they clicked on the button they will be prompt for their names, surname email as well as password</li></li>
+
+<li>once they have provided, they need to click on the 'Register now' button</li></li>
+<li>after the user is registered they will log in with their email and password, NB, the systyem hashes the password before storing it in the database, so the users need to copy the hashed password from the  database</li></li>
 
