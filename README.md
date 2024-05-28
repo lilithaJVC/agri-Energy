@@ -44,7 +44,7 @@
 
 <li>here is how it will look</li>
 
-![Uploading listOfProducts.png…]() 
+![listOfProducts](https://github.com/lilithaJVC/agri-Energy/assets/104263642/a6101e7b-4b36-47bb-a619-0554b054a34e)
 
 
 
