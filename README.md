@@ -27,5 +27,9 @@
 <li>once they have provided, they need to click on the 'Register now' button</li></li>
 <li>after the user is registered they will log in with their email and password, NB, the systyem hashes the password before storing it in the database, so the users need to copy the hashed password from the  database</li></li>
 
+![dbfarmers](https://github.com/lilithaJVC/agri-Energy/assets/104263642/dde23ea5-1dd0-42a9-ba62-d6b567609637) 
+
+
+
 
 
