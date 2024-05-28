@@ -29,6 +29,10 @@
 
 ![dbfarmers](https://github.com/lilithaJVC/agri-Energy/assets/104263642/dde23ea5-1dd0-42a9-ba62-d6b567609637) 
 
+<li>now the user logs  intp the system with the hashed password</li>
+
+![famerlogpg](https://github.com/lilithaJVC/agri-Energy/assets/104263642/1a360ca5-a5a8-43bc-b0e3-6ca2670a30a9) 
+
 
 
 
